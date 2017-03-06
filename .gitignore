@@ -3,5 +3,6 @@ npm-debug.log
 .idea/*
 .grunt/*
 _SpecRunner.html
+node_modules
 public/bundle.js
 public/styles.css
